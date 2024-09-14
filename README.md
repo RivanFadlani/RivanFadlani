@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=9BEC00&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Ripunn)](https://git.io/typing-svg) <br> <br>
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=9BEC00&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Ripunn)](https://git.io/typing-svg) 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 This repository serves as a digital notebook for my programming adventures. Here, I'll be documenting my learning process, sharing projects I've built, and tracking my growth as a developer.
 
 **Why this repo?**
@@ -8,12 +11,22 @@ This repository serves as a digital notebook for my programming adventures. Here
 
 **Let's code together!**
 
-<h4 align="left"> ☘️ Tools and Software</h4>
+# #️ Tools what i use
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,html,css,bootstrap,laravel)](https://skillicons.dev)
-<hr>
+### #️ Tools4Code
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%29D337BA.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-D1E9F6.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
-<h4 align="left"> ☘️ My GitHub Stats</h4>
+### #️ Other
+![Figma](https://img.shields.io/badge/figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-1230AE.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+# #️ My GitHub Stats
 
 | GitHub Stats | Most Used Languages |
 |---|---|
@@ -26,4 +39,7 @@ This repository serves as a digital notebook for my programming adventures. Here
 
 <h4 align="left">☘️ Connect w/ Me</h4>
 
-[![Instagram Badge](https://img.shields.io/badge/-vvann.v_-F8302E?style=flat&labelColor=0D1117&logo=instagram&logoColor=white)](https://www.instagram.com/vvann.v_/)
+[![Instagram Badge](https://img.shields.io/badge/-vvann.v_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvann.v_/)
+[![X Badge](https://img.shields.io/badge/-ripunn_-FF407D.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/)
+
+[![](https://visitcount.itsvg.in/api?id=Ripunn&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
