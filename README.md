@@ -14,7 +14,7 @@ This repository serves as a digital notebook for my programming adventures. Here
 * To share my knowledge with others.
 * To collaborate on projects and learn from the community.
 
-**Let's code together!**
+<!-- **Let's code together!** -->
 
 # #️ Tools what i use
 
