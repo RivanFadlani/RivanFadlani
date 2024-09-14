@@ -1,5 +1,10 @@
 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=9BEC00&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Ripunn)](https://git.io/typing-svg) 
 
+> Hello World is the Beginning
+
+[![](https://visitcount.itsvg.in/api?id=rivanfadlani&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://github.com/rivanfadlani"><img src="https://img.shields.io/github/followers/rivanfadlani?label=followers&style=social"/></a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 This repository serves as a digital notebook for my programming adventures. Here, I'll be documenting my learning process, sharing projects I've built, and tracking my growth as a developer.
@@ -40,6 +45,5 @@ This repository serves as a digital notebook for my programming adventures. Here
 <h4 align="left">☘️ Connect w/ Me</h4>
 
 [![Instagram Badge](https://img.shields.io/badge/-vvann.v_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvann.v_/)
-[![X Badge](https://img.shields.io/badge/-ripunn_-FF407D.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/)
-
-[![](https://visitcount.itsvg.in/api?id=Ripunn&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![X Badge](https://img.shields.io/badge/-ripunn_-333333.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/)
+[![Discord Badge](https://img.shields.io/badge/-.ripunn-7695FF.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/782148431635939338/)
