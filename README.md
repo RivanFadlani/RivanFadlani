@@ -27,7 +27,7 @@ This repository serves as a digital notebook for my programming adventures. Here
 ![MySQL](https://img.shields.io/badge/mysql-D1E9F6.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### #️ Other
-![Figma](https://img.shields.io/badge/figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-eaeaea.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-1230AE.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
