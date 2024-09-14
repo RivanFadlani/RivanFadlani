@@ -42,7 +42,9 @@ This repository serves as a digital notebook for my programming adventures. Here
 |---|
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&area_color=F1E05A&point=F8302E&bg_color=0D1117&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> | -->
 
-<h4 align="left">☘️ Connect w/ Me</h4>
+<hr>
+
+### ☘️ Connect w/ Me
 
 [![Instagram Badge](https://img.shields.io/badge/-vvann.v_-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vvann.v_/)
 [![X Badge](https://img.shields.io/badge/-ripunn_-333333.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/)
