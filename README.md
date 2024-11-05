@@ -20,7 +20,7 @@ This repository serves as a digital notebook for my programming adventures. Here
 
 ### #️ Tools4Code
 <!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%29D337BA.svg?style=for-the-badge&logo=vsc&logoColor=white) -->
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-777777.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
