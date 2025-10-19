@@ -5,12 +5,7 @@
 
 ![hippo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-This repository serves as a digital notebook for my programming adventures. Here, I'll be documenting my learning process, sharing projects I've built, and tracking my growth as a developer.
-
-**Why this repo?**
-* To keep a record of my coding progress.
-* To share my knowledge with others.
-* To collaborate on projects and learn from the community.
+**orangnya lagi libur ngoding**
 
 <!-- **Let's code together!** -->
 
