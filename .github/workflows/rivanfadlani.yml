@@ -11,13 +11,15 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v2
+      # PENTING: Gunakan indentasi yang benar di sini (2 spasi di depan uses)
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # Your GitHub PAT (Personal Access Token)
-          - uses: anmol098/waka-readme-stats@master
+          # PENTING: GH_TOKEN harus ada di sini dan pakai indentasi yang sama dengan WAKATIME_API_KEY
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Your WakaTime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Optional: Change the theme or other options
           # theme: "dark"
           # commit_message: "Updated waka-readme-stats"
           # ... lihat dokumentasi action untuk opsi lain
+
