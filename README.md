@@ -30,14 +30,8 @@
 
 # #️ My GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-|---|---|
-| <img height="150" src="https://github-readme-stats.vercel.app/api?username=rivanfadlani&show_icons=true&theme=monokai&rank_icon=github&icon_color=9BEC00&hide_border=true&hide_title=true&ring_color=9BEC00&bg_color=0D1117"/> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivanfadlani&layout=compact&theme=monokai&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117"/> |
-
-
-<!-- | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Commit History |
-|---|
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&area_color=F1E05A&point=F8302E&bg_color=0D1117&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> | -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <hr>
 
