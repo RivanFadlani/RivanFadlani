@@ -14,7 +14,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@v2
         with:
           # Your GitHub PAT (Personal Access Token)
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          - uses: anmol098/waka-readme-stats@master
           # Your WakaTime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Optional: Change the theme or other options
