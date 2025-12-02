@@ -1,0 +1,23 @@
+name: Waka README
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12 am UTC daily
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v2
+        with:
+          # Your GitHub PAT (Personal Access Token)
+          - uses: anmol098/waka-readme-stats@master
+          # Your WakaTime API Key
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Optional: Change the theme or other options
+          # theme: "dark"
+          # commit_message: "Updated waka-readme-stats"
+          # ... lihat dokumentasi action untuk opsi lain
