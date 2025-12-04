@@ -8,7 +8,7 @@
 
 # #️ Tools what i use
 
-### #️ Tools4Code
+## #️ Tools4Code
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -16,7 +16,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-D1E9F6.svg?style=for-the-badge&logo=mysql&logoColor=black)
 
-### #️ Other
+## #️ Other
 ![Figma](https://img.shields.io/badge/figma-eaeaea.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-1230AE.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -41,8 +41,8 @@ conf       44 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <hr>
 
-### ☘️ Connect w/ Me
+## ☘️ Connect w/ Me
 
 [![Instagram Badge](https://img.shields.io/badge/-whtaripunn-FF407D.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whtaripunn/)
-<!-- [![X Badge](https://img.shields.io/badge/-ripunn_-333333.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/) -->
 [![Discord Badge](https://img.shields.io/badge/-.ripunn-7695FF.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/782148431635939338/)
+<!-- [![X Badge](https://img.shields.io/badge/-ripunn_-333333.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ripunn_/) -->
