@@ -20,7 +20,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: RivanFadlani/RivanFadlani
           ### content
-          SHOW_TITLE: true
+          # SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
