@@ -18,8 +18,8 @@
 
 ## #️ Other
 ![Figma](https://img.shields.io/badge/figma-eaeaea.svg?style=for-the-badge&logo=figma&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-1230AE.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+<!--![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-161D6F.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-1230AE.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) -->
 
 # #️ My Code Stats
 
