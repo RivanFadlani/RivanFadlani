@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=9BEC00&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Ripunn)](https://git.io/typing-svg)
 
-> mau menghijaukan github lagi
+> git gut la..
 
 ![hippo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
